@@ -38,16 +38,16 @@ python main.py
 ## Screenshots
 
 ### Login Page
-![Login](screenshots/login.png)
+![Login](./screenshots/login.png)
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](./screenshots/dashboard.png)
 
 ### Add Expense
-![Add Expense](screenshots/add_expense.png)
+![Add Expense](./screenshots/add_expense.png)
 
 ### View Expenses
-![View Expenses](screenshots/view_expenses.png)
+![View Expenses](./screenshots/view_expenses.png)
 
 ### Reports
-![Reports](screenshots/reports.png)
+![Reports](./screenshots/reports.png)
